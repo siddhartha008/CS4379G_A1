@@ -8,13 +8,13 @@ This repository contains Assignment 1 for the course. It includes a Jupyter note
 ## How to Run the Notebook
 1. **Clone the repository**
    ```bash
-   git clone 
+   git clone https://github.com/siddhartha008/CS4379G_A1.git
    cd A1
    ```
 2. **Create and activate a virtual environment**:
    ```bash
    python3 -m venv venv
-   source venv/bin/activate   # On Windows: venv\Scripts\activate
+   source venv/bin/activate  
    ```
 
 3. **Install required packages**:
